@@ -1,0 +1,23 @@
+name: 'coverhouse'
+version: '1.0.0'
+
+profile: 'coverhouse'
+
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:  
+  - "target"
+  - "dbt_packages"
+
+
+# Configuring models
+models:
+  coverhouse:
+    staging:
+      +materialized: incremental
