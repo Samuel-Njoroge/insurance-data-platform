@@ -12,11 +12,13 @@ SELECT
     policy_id,
     policy_number,
     type,
-    start_date,
-    end_date,
+    issue_date,
+    expiry_date,
     premium_amount,
     agent_id,
     beneficiary_id,
     branch_id,
+    status,
+    sum_assured,
     active
 FROM policies
