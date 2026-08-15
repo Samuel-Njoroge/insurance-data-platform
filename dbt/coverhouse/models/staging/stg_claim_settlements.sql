@@ -15,5 +15,7 @@ SELECT
     settlement_date,
     method,
     reference,
+    approved_by,
+    status,
     active
 FROM claim_settlements

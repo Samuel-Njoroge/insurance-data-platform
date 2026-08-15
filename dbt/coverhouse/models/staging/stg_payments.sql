@@ -11,6 +11,7 @@ SELECT
     updated_by,
     payment_id,
     claim_id,
+    policy_id,
     payment_date,
     amount,
     method,

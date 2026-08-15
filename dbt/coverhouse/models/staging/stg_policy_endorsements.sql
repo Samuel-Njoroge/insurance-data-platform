@@ -11,8 +11,11 @@ SELECT
     updated_by,
     policy_endorsement_id,
     policy_id,
-    endorsement_type,
     endorsement_date,
+    endorsement_type,
+    old_value,
+    new_value,
     premium_adjustment,
+    approved_by,
     active
 FROM policy_endorsements

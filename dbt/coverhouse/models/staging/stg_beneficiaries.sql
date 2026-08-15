@@ -10,6 +10,7 @@ SELECT
     updated_at,
     updated_by,
     beneficiary_id,
+    policy_id,
     first_name,
     last_name,
     email,
