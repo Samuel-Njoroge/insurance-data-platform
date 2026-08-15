@@ -13,5 +13,7 @@ SELECT
     product_name,
     product_description,
     product_type,
+    min_amount,
+    max_amount,
     active
 FROM products
