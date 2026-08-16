@@ -11,6 +11,7 @@ SELECT
     updated_by,
     policy_id,
     policy_number,
+    customer_id,
     type,
     issue_date,
     expiry_date,
