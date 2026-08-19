@@ -29,32 +29,32 @@ settlements AS (
 )
 
 SELECT
-    claims.claim_id,
-    claims.claim_date,
-    claims.policy_id,
-    claims.policy_number,
-    claims.product_type,
-    claims.agent_id,
-    claims.beneficiary_id,
-    claims.branch_id,
-    branch_claims.branch_name,
-    branch_claims.branch_city,
-    branch_claims.branch_state,
-    claims.customer_id,
-    claims.customer_name,
-    claims.claim_amount,
-    claims.reserve_amount,
-    claims.settlement_amount,
-    claims.cause_of_loss,
-    claims.claim_status,
-    COALESCE(settlements.settlement_count, 0) AS settlement_count,
-    COALESCE(settlements.total_settled_amount, 0) AS total_settled_amount,
-    settlements.last_settlement_date,
-    DATE_DIFF('day', claims.claim_date, settlements.last_settlement_date) AS days_to_settle,
-    CASE WHEN claims.claim_status = 'Settled' THEN 1 ELSE 0 END AS is_settled,
-    ROUND(claims.claim_amount / NULLIF(claims.sum_assured, 0), 4) AS claim_to_sum_assured_ratio
-FROM claims
-LEFT JOIN branch_claims
-    ON claims.claim_id = branch_claims.claim_id
-LEFT JOIN settlements
-    ON claims.claim_id = settlements.claim_id
+    cl.claim_id,
+    cl.claim_date,
+    cl.policy_id,
+    cl.policy_number,
+    cl.product_type,
+    cl.agent_id,
+    cl.beneficiary_id,
+    cl.branch_id,
+    brcl.branch_name,
+    brcl.branch_city,
+    brcl.branch_state,
+    cl.customer_id,
+    cl.customer_name,
+    cl.claim_amount,
+    cl.reserve_amount,
+    cl.settlement_amount,
+    cl.cause_of_loss,
+    cl.claim_status,
+    COALESCE(stl.settlement_count, 0) AS settlement_count,
+    COALESCE(stl.total_settled_amount, 0) AS total_settled_amount,
+    stl.last_settlement_date,
+    DATE_DIFF('day', cl.claim_date, stl.last_settlement_date) AS days_to_settle,
+    CASE WHEN cl.claim_status = 'Settled' THEN 1 ELSE 0 END AS is_settled,
+    ROUND(cl.claim_amount / NULLIF(cl.sum_assured, 0), 4) AS claim_to_sum_assured_ratio
+FROM claims cl
+LEFT JOIN branch_claims brcl
+    ON cl.claim_id = brcl.claim_id
+LEFT JOIN settlements stl
+    ON cl.claim_id = stl.claim_id

@@ -52,31 +52,31 @@ payments AS (
 )
 
 SELECT
-    customers.customer_id,
-    customers.national_id,
-    customers.customer_name,
-    customers.email,
-    customers.phone_number,
-    customers.date_of_birth,
-    customers.gender,
-    customers.city,
-    customers.state,
-    customers.active,
-    COALESCE(policies.policy_count, 0) AS policy_count,
-    COALESCE(policies.active_policy_count, 0) AS active_policy_count,
-    COALESCE(policies.total_premium, 0) AS total_premium,
-    COALESCE(policies.total_sum_assured, 0) AS total_sum_assured,
-    policies.first_policy_date,
-    policies.last_policy_date,
-    COALESCE(claims.claim_count, 0) AS claim_count,
-    COALESCE(claims.total_claim_amount, 0) AS total_claim_amount,
-    COALESCE(claims.total_settlement_amount, 0) AS total_settlement_amount,
-    COALESCE(payments.payment_count, 0) AS payment_count,
-    COALESCE(payments.total_payments, 0) AS total_payments
-FROM customers
-LEFT JOIN policies
-    ON customers.customer_id = policies.customer_id
-LEFT JOIN claims
-    ON customers.customer_id = claims.customer_id
-LEFT JOIN payments
-    ON customers.customer_id = payments.customer_id
+    cst.customer_id,
+    cst.national_id,
+    cst.customer_name,
+    cst.email,
+    cst.phone_number,
+    cst.date_of_birth,
+    cst.gender,
+    cst.city,
+    cst.state,
+    cst.active,
+    COALESCE(pl.policy_count, 0) AS policy_count,
+    COALESCE(pl.active_policy_count, 0) AS active_policy_count,
+    COALESCE(pl.total_premium, 0) AS total_premium,
+    COALESCE(pl.total_sum_assured, 0) AS total_sum_assured,
+    pl.first_policy_date,
+    pl.last_policy_date,
+    COALESCE(cl.claim_count, 0) AS claim_count,
+    COALESCE(cl.total_claim_amount, 0) AS total_claim_amount,
+    COALESCE(cl.total_settlement_amount, 0) AS total_settlement_amount,
+    COALESCE(pts.payment_count, 0) AS payment_count,
+    COALESCE(pts.total_payments, 0) AS total_payments
+FROM customers cst
+LEFT JOIN policies pl
+    ON cst.customer_id = pl.customer_id
+LEFT JOIN claims cl
+    ON cst.customer_id = cl.customer_id
+LEFT JOIN payments pts
+    ON cst.customer_id = pts.customer_id

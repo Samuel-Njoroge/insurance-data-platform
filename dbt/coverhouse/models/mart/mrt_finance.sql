@@ -49,27 +49,27 @@ periods AS (
 )
 
 SELECT
-    periods.branch_id,
-    periods.branch_name,
-    periods.period_month,
-    COALESCE(policy_premium.gross_written_premium, 0) AS gross_written_premium,
-    COALESCE(policy_premium.policies_written, 0) AS policies_written,
-    COALESCE(payments_by_branch.premium_received, 0) AS premium_received,
-    COALESCE(incurred_claims.incurred_claims_amount, 0) AS incurred_claims_amount,
-    COALESCE(incurred_claims.paid_claims_amount, 0) AS paid_claims_amount,
-    COALESCE(incurred_claims.claims_count, 0) AS claims_count,
+    prd.branch_id,
+    prd.branch_name,
+    prd.period_month,
+    COALESCE(pp.gross_written_premium, 0) AS gross_written_premium,
+    COALESCE(pp.policies_written, 0) AS policies_written,
+    COALESCE(pb.premium_received, 0) AS premium_received,
+    COALESCE(ic.incurred_claims_amount, 0) AS incurred_claims_amount,
+    COALESCE(ic.paid_claims_amount, 0) AS paid_claims_amount,
+    COALESCE(ic.claims_count, 0) AS claims_count,
     ROUND(
-        COALESCE(incurred_claims.incurred_claims_amount, 0)
-        / NULLIF(policy_premium.gross_written_premium, 0),
+        COALESCE(ic.incurred_claims_amount, 0)
+        / NULLIF(pp.gross_written_premium, 0),
         4
     ) AS loss_ratio
-FROM periods
-LEFT JOIN policy_premium
-    ON periods.branch_id = policy_premium.branch_id
-    AND periods.period_month = policy_premium.period_month
-LEFT JOIN incurred_claims
-    ON periods.branch_id = incurred_claims.branch_id
-    AND periods.period_month = incurred_claims.period_month
-LEFT JOIN payments_by_branch
-    ON periods.branch_id = payments_by_branch.branch_id
-    AND periods.period_month = payments_by_branch.period_month
+FROM periods prd
+LEFT JOIN policy_premium pp
+    ON prd.branch_id = pp.branch_id
+    AND prd.period_month = pp.period_month
+LEFT JOIN incurred_claims ic
+    ON prd.branch_id = ic.branch_id
+    AND prd.period_month = ic.period_month
+LEFT JOIN payments_by_branch pb
+    ON prd.branch_id = pb.branch_id
+    AND prd.period_month = pb.period_month
