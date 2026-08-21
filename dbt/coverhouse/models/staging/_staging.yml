@@ -1,0 +1,184 @@
+version: 2
+
+models:
+  - name: stg_agents
+    columns:
+      - name: agent_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_beneficiaries
+    columns:
+      - name: beneficiary_id
+        tests:
+          - unique
+          - not_null
+      - name: policy_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_policies')
+                field: policy_id
+
+  - name: stg_branches
+    columns:
+      - name: branch_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_claim_settlements
+    columns:
+      - name: claim_settlement_id
+        tests:
+          - unique
+          - not_null
+      - name: claim_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_claims')
+                field: claim_id
+      - name: settlement_amount
+        tests:
+          - not_null
+
+  - name: stg_claims
+    columns:
+      - name: claim_id
+        tests:
+          - unique
+          - not_null
+      - name: policy_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_policies')
+                field: policy_id
+      - name: agent_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_agents')
+                field: agent_id
+              config:
+                severity: warn
+      - name: beneficiary_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_beneficiaries')
+                field: beneficiary_id
+              config:
+                severity: warn
+      - name: branch_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_branches')
+                field: branch_id
+              config:
+                severity: warn
+      - name: status
+        tests:
+          - accepted_values:
+              arguments:
+                values:
+                  ['Open', 'Pending', 'Approved', 'Rejected', 'Settled']
+              config:
+                severity: warn
+
+  - name: stg_customers
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: national_id
+        tests:
+          - unique:
+              config:
+                severity: warn
+
+  - name: stg_payments
+    columns:
+      - name: payment_id
+        tests:
+          - unique
+          - not_null
+      - name: policy_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_policies')
+                field: policy_id
+      - name: amount
+        tests:
+          - not_null
+
+  - name: stg_policies
+    columns:
+      - name: policy_id
+        tests:
+          - unique
+          - not_null
+      - name: policy_number
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_customers')
+                field: customer_id
+      - name: agent_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_agents')
+                field: agent_id
+              config:
+                severity: warn
+      - name: branch_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_branches')
+                field: branch_id
+              config:
+                severity: warn
+      - name: status
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Active', 'Cancelled', 'Expired', 'Pending']
+              config:
+                severity: warn
+
+  - name: stg_policy_endorsements
+    columns:
+      - name: policy_endorsement_id
+        tests:
+          - unique
+          - not_null
+      - name: policy_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_policies')
+                field: policy_id
+
+  - name: stg_products
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
