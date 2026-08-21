@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: mrt_policy
+    description: Gold-layer policy fact table, one row per policy.
+    columns:
+      - name: policy_id
+        tests:
+          - unique
+          - not_null
+      - name: policy_number
+        tests:
+          - unique
+          - not_null
+
+  - name: mrt_claim
+    description: Gold-layer claim fact table, one row per claim.
+    columns:
+      - name: claim_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mrt_customer
+    description: Gold-layer customer fact table, one row per customer.
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+
+  - name: mrt_finance
+    description: Gold-layer finance summary, grain is branch x month. Row-level uniqueness on (branch_id, period_month) is enforced by tests/assert_mart_finance_unique_branch_month.sql.
+
+  - name: mrt_sales
+    description: Gold-layer sales summary, grain is agent x branch. Row-level uniqueness on (agent_id, branch_id) is enforced by tests/assert_mart_sales_unique_agent_branch.sql.
