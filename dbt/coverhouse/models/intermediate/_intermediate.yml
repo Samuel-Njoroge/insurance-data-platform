@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: int_customer_claims
+    description: One row per claim, enriched with policy and customer attributes.
+    columns:
+      - name: claim_id
+        tests:
+          - unique
+          - not_null
+
+  - name: int_customer_payments
+    description: One row per payment, enriched with policy and customer attributes.
+    columns:
+      - name: payment_id
+        tests:
+          - unique
+          - not_null
+
+  - name: int_branch_policies
+    description: One row per policy, enriched with branch attributes.
+    columns:
+      - name: policy_id
+        tests:
+          - unique
+          - not_null
+
+  - name: int_branch_claims
+    description: One row per claim, enriched with policy and branch attributes.
+    columns:
+      - name: claim_id
+        tests:
+          - unique
+          - not_null
+
+  - name: int_beneficiary_settlements
+    description: One row per claim settlement, enriched with claim and beneficiary attributes.
+    columns:
+      - name: claim_settlement_id
+        tests:
+          - unique
+          - not_null
