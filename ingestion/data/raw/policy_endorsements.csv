@@ -1,0 +1,121 @@
+created_at,created_by,updated_at,updated_by,policy_endorsement_id,policy_id,endorsement_date,endorsement_type,old_value,new_value,premium_adjustment,approved_by,active
+2023-11-26 10:00:00,seed_generator,2023-11-26 10:00:00,seed_generator,EN0000001,PO0000148,2025-01-22,Upgrade,Standard,Enhanced,2129.00,underwriting@coverhouse.co.ke,True
+2023-12-30 10:00:00,seed_generator,2024-01-18 10:00:00,seed_generator,EN0000002,PO0000258,2025-06-10,Change Beneficiary,Standard,Enhanced,10009.00,underwriting@coverhouse.co.ke,True
+2025-04-16 10:00:00,seed_generator,2025-04-21 10:00:00,seed_generator,EN0000003,PO0000353,2025-10-02,Add Cover,Standard,Enhanced,-5449.00,underwriting@coverhouse.co.ke,True
+2025-06-08 10:00:00,seed_generator,2025-06-18 10:00:00,seed_generator,EN0000004,PO0000086,2025-07-01,Change Beneficiary,Standard,Enhanced,-705.00,underwriting@coverhouse.co.ke,True
+2024-02-03 10:00:00,seed_generator,2024-02-18 10:00:00,seed_generator,EN0000005,PO0000007,2025-05-30,Change Beneficiary,Standard,Enhanced,11892.00,underwriting@coverhouse.co.ke,True
+2025-06-18 10:00:00,seed_generator,2025-06-26 10:00:00,seed_generator,EN0000006,PO0000011,2025-04-29,Upgrade,Standard,Enhanced,1188.00,underwriting@coverhouse.co.ke,True
+2023-10-30 10:00:00,seed_generator,2023-11-26 10:00:00,seed_generator,EN0000007,PO0000348,2025-03-21,Upgrade,Standard,Enhanced,28928.00,underwriting@coverhouse.co.ke,True
+2024-08-18 10:00:00,seed_generator,2024-09-05 10:00:00,seed_generator,EN0000008,PO0000181,2025-06-01,Upgrade,Standard,Enhanced,22001.00,underwriting@coverhouse.co.ke,True
+2024-08-20 10:00:00,seed_generator,2024-08-23 10:00:00,seed_generator,EN0000009,PO0000127,2024-04-03,Upgrade,Standard,Enhanced,-8861.00,underwriting@coverhouse.co.ke,True
+2024-01-20 10:00:00,seed_generator,2024-01-29 10:00:00,seed_generator,EN0000010,PO0000291,2024-09-06,Downgrade,Standard,Enhanced,24424.00,underwriting@coverhouse.co.ke,True
+2025-06-28 10:00:00,seed_generator,2025-07-22 10:00:00,seed_generator,EN0000011,PO0000258,2025-06-10,Downgrade,Standard,Enhanced,-3846.00,underwriting@coverhouse.co.ke,True
+2025-02-08 10:00:00,seed_generator,2025-03-05 10:00:00,seed_generator,EN0000012,PO0000052,2025-03-24,Add Cover,Standard,Enhanced,19662.00,underwriting@coverhouse.co.ke,True
+2023-11-25 10:00:00,seed_generator,2023-12-06 10:00:00,seed_generator,EN0000013,PO0000252,2025-11-08,Add Cover,Standard,Enhanced,21882.00,underwriting@coverhouse.co.ke,True
+2024-12-08 10:00:00,seed_generator,2024-12-22 10:00:00,seed_generator,EN0000014,PO0000130,2024-07-21,Upgrade,Standard,Enhanced,13109.00,underwriting@coverhouse.co.ke,True
+2023-12-20 10:00:00,seed_generator,2023-12-30 10:00:00,seed_generator,EN0000015,PO0000155,2024-01-21,Change Beneficiary,Standard,Enhanced,-2611.00,underwriting@coverhouse.co.ke,True
+2024-01-14 10:00:00,seed_generator,2024-01-30 10:00:00,seed_generator,EN0000016,PO0000139,2025-01-01,Upgrade,Standard,Enhanced,-308.00,underwriting@coverhouse.co.ke,True
+2025-05-05 10:00:00,seed_generator,2025-05-26 10:00:00,seed_generator,EN0000017,PO0000211,2024-10-16,Downgrade,Standard,Enhanced,13409.00,underwriting@coverhouse.co.ke,True
+2025-11-15 10:00:00,seed_generator,2025-11-22 10:00:00,seed_generator,EN0000018,PO0000255,2024-08-11,Change Beneficiary,Standard,Enhanced,13554.00,underwriting@coverhouse.co.ke,True
+2023-11-15 10:00:00,seed_generator,2023-11-17 10:00:00,seed_generator,EN0000019,PO0000106,2024-09-07,Downgrade,Standard,Enhanced,14758.00,underwriting@coverhouse.co.ke,True
+2025-08-28 10:00:00,seed_generator,2025-09-27 10:00:00,seed_generator,EN0000020,PO0000328,2025-04-16,Add Cover,Standard,Enhanced,25711.00,underwriting@coverhouse.co.ke,True
+2024-06-25 10:00:00,seed_generator,2024-06-30 10:00:00,seed_generator,EN0000021,PO0000231,2024-04-26,Add Cover,Standard,Enhanced,12861.00,underwriting@coverhouse.co.ke,True
+2024-11-11 10:00:00,seed_generator,2024-11-29 10:00:00,seed_generator,EN0000022,PO0000170,2024-03-30,Change Beneficiary,Standard,Enhanced,8104.00,underwriting@coverhouse.co.ke,True
+2025-06-04 10:00:00,seed_generator,2025-06-05 10:00:00,seed_generator,EN0000023,PO0000159,2024-04-08,Add Cover,Standard,Enhanced,-1942.00,underwriting@coverhouse.co.ke,True
+2023-09-24 10:00:00,seed_generator,2023-10-08 10:00:00,seed_generator,EN0000024,PO0000222,2025-11-25,Add Cover,Standard,Enhanced,8901.00,underwriting@coverhouse.co.ke,True
+2025-12-08 10:00:00,seed_generator,2025-12-23 10:00:00,seed_generator,EN0000025,PO0000057,2024-01-11,Downgrade,Standard,Enhanced,20560.00,underwriting@coverhouse.co.ke,True
+2025-07-16 10:00:00,seed_generator,2025-08-01 10:00:00,seed_generator,EN0000026,PO0000349,2025-03-28,Add Cover,Standard,Enhanced,26578.00,underwriting@coverhouse.co.ke,True
+2025-07-03 10:00:00,seed_generator,2025-07-12 10:00:00,seed_generator,EN0000027,PO0000341,2025-09-11,Change Beneficiary,Standard,Enhanced,8891.00,underwriting@coverhouse.co.ke,True
+2023-09-20 10:00:00,seed_generator,2023-09-29 10:00:00,seed_generator,EN0000028,PO0000034,2024-07-31,Upgrade,Standard,Enhanced,19744.00,underwriting@coverhouse.co.ke,True
+2025-05-08 10:00:00,seed_generator,2025-05-17 10:00:00,seed_generator,EN0000029,PO0000021,2025-11-01,Upgrade,Standard,Enhanced,-6514.00,underwriting@coverhouse.co.ke,True
+2025-02-06 10:00:00,seed_generator,2025-02-06 10:00:00,seed_generator,EN0000030,PO0000251,2024-12-04,Change Beneficiary,Standard,Enhanced,13085.00,underwriting@coverhouse.co.ke,True
+2023-08-15 10:00:00,seed_generator,2023-08-15 10:00:00,seed_generator,EN0000031,PO0000339,2025-10-08,Upgrade,Standard,Enhanced,6477.00,underwriting@coverhouse.co.ke,True
+2024-12-23 10:00:00,seed_generator,2025-01-20 10:00:00,seed_generator,EN0000032,PO0000071,2025-07-22,Add Cover,Standard,Enhanced,22898.00,underwriting@coverhouse.co.ke,True
+2023-10-21 10:00:00,seed_generator,2023-11-07 10:00:00,seed_generator,EN0000033,PO0000341,2025-09-11,Downgrade,Standard,Enhanced,-4364.00,underwriting@coverhouse.co.ke,True
+2025-03-14 10:00:00,seed_generator,2025-03-18 10:00:00,seed_generator,EN0000034,PO0000366,2024-12-30,Downgrade,Standard,Enhanced,18314.00,underwriting@coverhouse.co.ke,True
+2025-09-25 10:00:00,seed_generator,2025-10-04 10:00:00,seed_generator,EN0000035,PO0000300,2025-01-25,Downgrade,Standard,Enhanced,-7894.00,underwriting@coverhouse.co.ke,True
+2024-12-18 10:00:00,seed_generator,2024-12-25 10:00:00,seed_generator,EN0000036,PO0000243,2024-10-19,Change Beneficiary,Standard,Enhanced,17693.00,underwriting@coverhouse.co.ke,True
+2025-09-07 10:00:00,seed_generator,2025-10-05 10:00:00,seed_generator,EN0000037,PO0000205,2025-05-16,Add Cover,Standard,Enhanced,9793.00,underwriting@coverhouse.co.ke,True
+2025-02-01 10:00:00,seed_generator,2025-02-06 10:00:00,seed_generator,EN0000038,PO0000306,2025-02-11,Change Beneficiary,Standard,Enhanced,11134.00,underwriting@coverhouse.co.ke,True
+2025-07-27 10:00:00,seed_generator,2025-08-17 10:00:00,seed_generator,EN0000039,PO0000297,2024-06-02,Downgrade,Standard,Enhanced,6385.00,underwriting@coverhouse.co.ke,True
+2024-10-16 10:00:00,seed_generator,2024-11-02 10:00:00,seed_generator,EN0000040,PO0000070,2025-03-04,Downgrade,Standard,Enhanced,9730.00,underwriting@coverhouse.co.ke,True
+2025-09-20 10:00:00,seed_generator,2025-09-29 10:00:00,seed_generator,EN0000041,PO0000157,2025-03-17,Change Beneficiary,Standard,Enhanced,25771.00,underwriting@coverhouse.co.ke,True
+2024-11-27 10:00:00,seed_generator,2024-12-22 10:00:00,seed_generator,EN0000042,PO0000094,2024-04-14,Change Beneficiary,Standard,Enhanced,-3706.00,underwriting@coverhouse.co.ke,True
+2024-06-25 10:00:00,seed_generator,2024-07-09 10:00:00,seed_generator,EN0000043,PO0000071,2025-07-22,Add Cover,Standard,Enhanced,23018.00,underwriting@coverhouse.co.ke,True
+2023-12-18 10:00:00,seed_generator,2023-12-29 10:00:00,seed_generator,EN0000044,PO0000351,2025-09-03,Change Beneficiary,Standard,Enhanced,13212.00,underwriting@coverhouse.co.ke,True
+2024-08-26 10:00:00,seed_generator,2024-09-08 10:00:00,seed_generator,EN0000045,PO0000219,2024-04-25,Change Beneficiary,Standard,Enhanced,20230.00,underwriting@coverhouse.co.ke,True
+2024-05-23 10:00:00,seed_generator,2024-05-23 10:00:00,seed_generator,EN0000046,PO0000015,2024-01-16,Change Beneficiary,Standard,Enhanced,-4205.00,underwriting@coverhouse.co.ke,True
+2025-07-26 10:00:00,seed_generator,2025-08-14 10:00:00,seed_generator,EN0000047,PO0000387,2024-01-07,Add Cover,Standard,Enhanced,5902.00,underwriting@coverhouse.co.ke,True
+2024-07-10 10:00:00,seed_generator,2024-07-21 10:00:00,seed_generator,EN0000048,PO0000298,2025-05-30,Downgrade,Standard,Enhanced,25603.00,underwriting@coverhouse.co.ke,True
+2025-02-19 10:00:00,seed_generator,2025-02-20 10:00:00,seed_generator,EN0000049,PO0000290,2025-05-08,Change Beneficiary,Standard,Enhanced,-1747.00,underwriting@coverhouse.co.ke,True
+2024-01-30 10:00:00,seed_generator,2024-01-30 10:00:00,seed_generator,EN0000050,PO0000207,2025-10-17,Change Beneficiary,Standard,Enhanced,23948.00,underwriting@coverhouse.co.ke,True
+2023-08-10 10:00:00,seed_generator,2023-08-11 10:00:00,seed_generator,EN0000051,PO0000236,2025-03-19,Upgrade,Standard,Enhanced,-6416.00,underwriting@coverhouse.co.ke,True
+2023-08-20 10:00:00,seed_generator,2023-09-09 10:00:00,seed_generator,EN0000052,PO0000139,2025-01-01,Upgrade,Standard,Enhanced,11855.00,underwriting@coverhouse.co.ke,True
+2025-09-08 10:00:00,seed_generator,2025-10-04 10:00:00,seed_generator,EN0000053,PO0000305,2025-05-09,Add Cover,Standard,Enhanced,27056.00,underwriting@coverhouse.co.ke,True
+2024-01-09 10:00:00,seed_generator,2024-01-19 10:00:00,seed_generator,EN0000054,PO0000247,2025-03-02,Upgrade,Standard,Enhanced,-2042.00,underwriting@coverhouse.co.ke,True
+2024-04-27 10:00:00,seed_generator,2024-05-18 10:00:00,seed_generator,EN0000055,PO0000380,2024-08-24,Upgrade,Standard,Enhanced,3439.00,underwriting@coverhouse.co.ke,True
+2025-07-22 10:00:00,seed_generator,2025-08-08 10:00:00,seed_generator,EN0000056,PO0000265,2024-03-29,Change Beneficiary,Standard,Enhanced,-1061.00,underwriting@coverhouse.co.ke,True
+2024-01-25 10:00:00,seed_generator,2024-02-14 10:00:00,seed_generator,EN0000057,PO0000115,2024-08-16,Downgrade,Standard,Enhanced,9719.00,underwriting@coverhouse.co.ke,True
+2025-02-01 10:00:00,seed_generator,2025-02-24 10:00:00,seed_generator,EN0000058,PO0000322,2024-07-06,Upgrade,Standard,Enhanced,21782.00,underwriting@coverhouse.co.ke,True
+2024-01-12 10:00:00,seed_generator,2024-01-18 10:00:00,seed_generator,EN0000059,PO0000320,2025-07-02,Upgrade,Standard,Enhanced,-5600.00,underwriting@coverhouse.co.ke,True
+2025-07-13 10:00:00,seed_generator,2025-08-01 10:00:00,seed_generator,EN0000060,PO0000001,2025-01-18,Upgrade,Standard,Enhanced,24067.00,underwriting@coverhouse.co.ke,True
+2025-04-07 10:00:00,seed_generator,2025-04-13 10:00:00,seed_generator,EN0000061,PO0000050,2024-09-05,Upgrade,Standard,Enhanced,21047.00,underwriting@coverhouse.co.ke,True
+2023-08-17 10:00:00,seed_generator,2023-09-02 10:00:00,seed_generator,EN0000062,PO0000013,2025-04-05,Change Beneficiary,Standard,Enhanced,15605.00,underwriting@coverhouse.co.ke,True
+2025-08-14 10:00:00,seed_generator,2025-08-23 10:00:00,seed_generator,EN0000063,PO0000029,2025-02-19,Change Beneficiary,Standard,Enhanced,21701.00,underwriting@coverhouse.co.ke,True
+2023-08-30 10:00:00,seed_generator,2023-09-06 10:00:00,seed_generator,EN0000064,PO0000095,2024-03-11,Add Cover,Standard,Enhanced,18778.00,underwriting@coverhouse.co.ke,True
+2024-03-25 10:00:00,seed_generator,2024-03-28 10:00:00,seed_generator,EN0000065,PO0000337,2024-07-22,Change Beneficiary,Standard,Enhanced,-416.00,underwriting@coverhouse.co.ke,True
+2025-11-24 10:00:00,seed_generator,2025-11-29 10:00:00,seed_generator,EN0000066,PO0000326,2025-02-11,Downgrade,Standard,Enhanced,5773.00,underwriting@coverhouse.co.ke,True
+2024-07-11 10:00:00,seed_generator,2024-08-03 10:00:00,seed_generator,EN0000067,PO0000088,2024-04-11,Downgrade,Standard,Enhanced,21205.00,underwriting@coverhouse.co.ke,True
+2025-02-23 10:00:00,seed_generator,2025-03-04 10:00:00,seed_generator,EN0000068,PO0000246,2025-10-24,Upgrade,Standard,Enhanced,28585.00,underwriting@coverhouse.co.ke,True
+2024-12-05 10:00:00,seed_generator,2024-12-26 10:00:00,seed_generator,EN0000069,PO0000253,2025-06-22,Add Cover,Standard,Enhanced,15636.00,underwriting@coverhouse.co.ke,True
+2024-01-02 10:00:00,seed_generator,2024-01-27 10:00:00,seed_generator,EN0000070,PO0000198,2024-05-20,Upgrade,Standard,Enhanced,20406.00,underwriting@coverhouse.co.ke,True
+2023-09-05 10:00:00,seed_generator,2023-09-18 10:00:00,seed_generator,EN0000071,PO0000214,2024-04-02,Downgrade,Standard,Enhanced,-8167.00,underwriting@coverhouse.co.ke,True
+2024-09-04 10:00:00,seed_generator,2024-09-07 10:00:00,seed_generator,EN0000072,PO0000146,2025-08-23,Change Beneficiary,Standard,Enhanced,-9278.00,underwriting@coverhouse.co.ke,True
+2025-02-09 10:00:00,seed_generator,2025-02-10 10:00:00,seed_generator,EN0000073,PO0000298,2025-05-30,Change Beneficiary,Standard,Enhanced,-7207.00,underwriting@coverhouse.co.ke,True
+2025-07-27 10:00:00,seed_generator,2025-08-10 10:00:00,seed_generator,EN0000074,PO0000182,2024-06-30,Change Beneficiary,Standard,Enhanced,8147.00,underwriting@coverhouse.co.ke,True
+2025-07-07 10:00:00,seed_generator,2025-07-18 10:00:00,seed_generator,EN0000075,PO0000005,2024-01-17,Downgrade,Standard,Enhanced,12861.00,underwriting@coverhouse.co.ke,True
+2024-06-27 10:00:00,seed_generator,2024-07-09 10:00:00,seed_generator,EN0000076,PO0000362,2025-07-16,Upgrade,Standard,Enhanced,1435.00,underwriting@coverhouse.co.ke,True
+2025-07-14 10:00:00,seed_generator,2025-07-25 10:00:00,seed_generator,EN0000077,PO0000336,2025-07-27,Add Cover,Standard,Enhanced,20112.00,underwriting@coverhouse.co.ke,True
+2023-10-03 10:00:00,seed_generator,2023-10-07 10:00:00,seed_generator,EN0000078,PO0000367,2025-10-22,Add Cover,Standard,Enhanced,9852.00,underwriting@coverhouse.co.ke,True
+2025-10-08 10:00:00,seed_generator,2025-11-06 10:00:00,seed_generator,EN0000079,PO0000202,2025-06-27,Change Beneficiary,Standard,Enhanced,14675.00,underwriting@coverhouse.co.ke,True
+2024-04-05 10:00:00,seed_generator,2024-04-26 10:00:00,seed_generator,EN0000080,PO0000242,2025-05-06,Downgrade,Standard,Enhanced,27751.00,underwriting@coverhouse.co.ke,True
+2024-07-15 10:00:00,seed_generator,2024-08-08 10:00:00,seed_generator,EN0000081,PO0000363,2024-04-25,Add Cover,Standard,Enhanced,-1519.00,underwriting@coverhouse.co.ke,True
+2025-01-19 10:00:00,seed_generator,2025-02-06 10:00:00,seed_generator,EN0000082,PO0000358,2025-04-19,Add Cover,Standard,Enhanced,28305.00,underwriting@coverhouse.co.ke,True
+2023-08-20 10:00:00,seed_generator,2023-09-01 10:00:00,seed_generator,EN0000083,PO0000317,2025-08-11,Upgrade,Standard,Enhanced,-7056.00,underwriting@coverhouse.co.ke,True
+2023-11-27 10:00:00,seed_generator,2023-12-02 10:00:00,seed_generator,EN0000084,PO0000016,2025-09-10,Downgrade,Standard,Enhanced,-3674.00,underwriting@coverhouse.co.ke,True
+2025-08-30 10:00:00,seed_generator,2025-09-14 10:00:00,seed_generator,EN0000085,PO0000341,2025-09-11,Change Beneficiary,Standard,Enhanced,11211.00,underwriting@coverhouse.co.ke,True
+2025-04-23 10:00:00,seed_generator,2025-05-17 10:00:00,seed_generator,EN0000086,PO0000390,2025-08-07,Downgrade,Standard,Enhanced,-3091.00,underwriting@coverhouse.co.ke,True
+2023-12-02 10:00:00,seed_generator,2023-12-30 10:00:00,seed_generator,EN0000087,PO0000090,2024-04-05,Change Beneficiary,Standard,Enhanced,17528.00,underwriting@coverhouse.co.ke,True
+2025-10-14 10:00:00,seed_generator,2025-11-02 10:00:00,seed_generator,EN0000088,PO0000033,2025-12-01,Add Cover,Standard,Enhanced,-2498.00,underwriting@coverhouse.co.ke,True
+2023-08-02 10:00:00,seed_generator,2023-08-25 10:00:00,seed_generator,EN0000089,PO0000020,2024-10-29,Upgrade,Standard,Enhanced,18936.00,underwriting@coverhouse.co.ke,True
+2024-11-28 10:00:00,seed_generator,2024-12-17 10:00:00,seed_generator,EN0000090,PO0000391,2025-05-14,Upgrade,Standard,Enhanced,1407.00,underwriting@coverhouse.co.ke,True
+2025-08-28 10:00:00,seed_generator,2025-09-19 10:00:00,seed_generator,EN0000091,PO0000165,2025-02-27,Change Beneficiary,Standard,Enhanced,14748.00,underwriting@coverhouse.co.ke,True
+2024-03-04 10:00:00,seed_generator,2024-03-22 10:00:00,seed_generator,EN0000092,PO0000069,2024-11-16,Downgrade,Standard,Enhanced,2826.00,underwriting@coverhouse.co.ke,True
+2024-08-01 10:00:00,seed_generator,2024-08-15 10:00:00,seed_generator,EN0000093,PO0000130,2024-07-21,Add Cover,Standard,Enhanced,4778.00,underwriting@coverhouse.co.ke,True
+2023-11-18 10:00:00,seed_generator,2023-11-23 10:00:00,seed_generator,EN0000094,PO0000104,2025-07-04,Change Beneficiary,Standard,Enhanced,24637.00,underwriting@coverhouse.co.ke,True
+2025-09-19 10:00:00,seed_generator,2025-10-07 10:00:00,seed_generator,EN0000095,PO0000099,2025-06-14,Upgrade,Standard,Enhanced,-3696.00,underwriting@coverhouse.co.ke,True
+2025-11-12 10:00:00,seed_generator,2025-12-07 10:00:00,seed_generator,EN0000096,PO0000105,2025-07-03,Downgrade,Standard,Enhanced,-9657.00,underwriting@coverhouse.co.ke,True
+2023-10-16 10:00:00,seed_generator,2023-10-29 10:00:00,seed_generator,EN0000097,PO0000185,2024-01-09,Upgrade,Standard,Enhanced,12328.00,underwriting@coverhouse.co.ke,True
+2024-01-18 10:00:00,seed_generator,2024-02-10 10:00:00,seed_generator,EN0000098,PO0000095,2024-03-11,Change Beneficiary,Standard,Enhanced,2460.00,underwriting@coverhouse.co.ke,True
+2024-05-11 10:00:00,seed_generator,2024-06-06 10:00:00,seed_generator,EN0000099,PO0000107,2024-05-02,Change Beneficiary,Standard,Enhanced,22823.00,underwriting@coverhouse.co.ke,True
+2024-12-16 10:00:00,seed_generator,2025-01-04 10:00:00,seed_generator,EN0000100,PO0000181,2025-06-01,Downgrade,Standard,Enhanced,-5599.00,underwriting@coverhouse.co.ke,True
+2024-10-05 10:00:00,seed_generator,2024-10-25 10:00:00,seed_generator,EN0000101,PO0000225,2025-04-25,Change Beneficiary,Standard,Enhanced,-5356.00,underwriting@coverhouse.co.ke,True
+2025-09-27 10:00:00,seed_generator,2025-10-01 10:00:00,seed_generator,EN0000102,PO0000292,2024-05-30,Add Cover,Standard,Enhanced,-3387.00,underwriting@coverhouse.co.ke,True
+2024-07-24 10:00:00,seed_generator,2024-07-31 10:00:00,seed_generator,EN0000103,PO0000061,2025-04-08,Upgrade,Standard,Enhanced,29419.00,underwriting@coverhouse.co.ke,True
+2025-01-12 10:00:00,seed_generator,2025-01-12 10:00:00,seed_generator,EN0000104,PO0000277,2024-03-24,Downgrade,Standard,Enhanced,8998.00,underwriting@coverhouse.co.ke,True
+2024-11-12 10:00:00,seed_generator,2024-12-04 10:00:00,seed_generator,EN0000105,PO0000129,2025-04-18,Add Cover,Standard,Enhanced,-5547.00,underwriting@coverhouse.co.ke,True
+2025-02-25 10:00:00,seed_generator,2025-02-27 10:00:00,seed_generator,EN0000106,PO0000081,2024-05-18,Downgrade,Standard,Enhanced,23931.00,underwriting@coverhouse.co.ke,True
+2024-07-22 10:00:00,seed_generator,2024-07-31 10:00:00,seed_generator,EN0000107,PO0000313,2024-10-09,Change Beneficiary,Standard,Enhanced,-6288.00,underwriting@coverhouse.co.ke,True
+2024-01-02 10:00:00,seed_generator,2024-01-30 10:00:00,seed_generator,EN0000108,PO0000280,2025-02-05,Upgrade,Standard,Enhanced,28192.00,underwriting@coverhouse.co.ke,True
+2025-03-22 10:00:00,seed_generator,2025-04-11 10:00:00,seed_generator,EN0000109,PO0000242,2025-05-06,Upgrade,Standard,Enhanced,-7885.00,underwriting@coverhouse.co.ke,True
+2024-10-11 10:00:00,seed_generator,2024-10-19 10:00:00,seed_generator,EN0000110,PO0000174,2024-05-27,Downgrade,Standard,Enhanced,11924.00,underwriting@coverhouse.co.ke,True
+2025-10-17 10:00:00,seed_generator,2025-10-21 10:00:00,seed_generator,EN0000111,PO0000392,2025-08-13,Downgrade,Standard,Enhanced,25853.00,underwriting@coverhouse.co.ke,True
+2025-01-13 10:00:00,seed_generator,2025-02-11 10:00:00,seed_generator,EN0000112,PO0000376,2025-06-22,Upgrade,Standard,Enhanced,5441.00,underwriting@coverhouse.co.ke,True
+2025-10-03 10:00:00,seed_generator,2025-10-28 10:00:00,seed_generator,EN0000113,PO0000253,2025-06-22,Upgrade,Standard,Enhanced,12665.00,underwriting@coverhouse.co.ke,True
+2024-10-16 10:00:00,seed_generator,2024-11-04 10:00:00,seed_generator,EN0000114,PO0000037,2025-09-20,Upgrade,Standard,Enhanced,26138.00,underwriting@coverhouse.co.ke,True
+2025-08-06 10:00:00,seed_generator,2025-08-14 10:00:00,seed_generator,EN0000115,PO0000246,2025-10-24,Upgrade,Standard,Enhanced,-3181.00,underwriting@coverhouse.co.ke,True
+2024-07-26 10:00:00,seed_generator,2024-08-11 10:00:00,seed_generator,EN0000116,PO0000019,2025-07-30,Downgrade,Standard,Enhanced,12954.00,underwriting@coverhouse.co.ke,True
+2024-08-14 10:00:00,seed_generator,2024-08-23 10:00:00,seed_generator,EN0000117,PO0000221,2025-05-09,Downgrade,Standard,Enhanced,-8595.00,underwriting@coverhouse.co.ke,True
+2025-11-20 10:00:00,seed_generator,2025-12-14 10:00:00,seed_generator,EN0000118,PO0000029,2025-02-19,Downgrade,Standard,Enhanced,25008.00,underwriting@coverhouse.co.ke,True
+2024-11-23 10:00:00,seed_generator,2024-12-14 10:00:00,seed_generator,EN0000119,PO0000312,2024-08-25,Upgrade,Standard,Enhanced,26208.00,underwriting@coverhouse.co.ke,True
+2025-10-24 10:00:00,seed_generator,2025-11-05 10:00:00,seed_generator,EN0000120,PO0000247,2025-03-02,Change Beneficiary,Standard,Enhanced,-1793.00,underwriting@coverhouse.co.ke,True

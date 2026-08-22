@@ -1,0 +1,6 @@
+created_at,created_by,updated_at,updated_by,product_id,product_name,product_description,product_type,min_amount,max_amount,active
+2025-10-07 10:00:00,seed_generator,2025-11-05 10:00:00,seed_generator,PR001,Motor Private,Motor Private insurance cover for the Kenyan market,Motor,15000.00,5000000.00,True
+2024-08-20 10:00:00,seed_generator,2024-08-21 10:00:00,seed_generator,PR002,Afya Bora Medical,Afya Bora Medical insurance cover for the Kenyan market,Medical,30000.00,2500000.00,True
+2025-02-26 10:00:00,seed_generator,2025-03-11 10:00:00,seed_generator,PR003,Msingi Life,Msingi Life insurance cover for the Kenyan market,Life,20000.00,10000000.00,True
+2025-06-15 10:00:00,seed_generator,2025-07-09 10:00:00,seed_generator,PR004,Biashara Fire,Biashara Fire insurance cover for the Kenyan market,Fire,25000.00,15000000.00,True
+2025-07-31 10:00:00,seed_generator,2025-08-24 10:00:00,seed_generator,PR005,Safari Travel,Safari Travel insurance cover for the Kenyan market,Travel,5000.00,1000000.00,True

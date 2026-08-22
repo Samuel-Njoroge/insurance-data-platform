@@ -1,0 +1,13 @@
+created_at,created_by,updated_at,updated_by,branch_id,branch_name,address,city,state,zip_code,active
+2025-11-21 10:00:00,seed_generator,2025-12-14 10:00:00,seed_generator,BR0001,Mombasa Mall Branch,43321 Brittany Bypass,Mombasa,Mombasa,80100,True
+2023-11-23 10:00:00,seed_generator,2023-11-26 10:00:00,seed_generator,BR0002,Kisumu Town Branch,33890 Jennifer Squares,Kisumu,Kisumu,40100,True
+2024-04-21 10:00:00,seed_generator,2024-05-04 10:00:00,seed_generator,BR0003,Mombasa CBD Branch,79402 Peterson Drives Apt. 511,Mombasa,Mombasa,80100,False
+2025-04-22 10:00:00,seed_generator,2025-05-08 10:00:00,seed_generator,BR0004,Nakuru Town Branch,55940 Herrera Lane Apt. 849,Nakuru,Nakuru,20100,False
+2023-12-14 10:00:00,seed_generator,2024-01-03 10:00:00,seed_generator,BR0005,Nakuru Town Branch,310 Kendra Common Apt. 164,Nakuru,Nakuru,20100,True
+2024-09-13 10:00:00,seed_generator,2024-10-01 10:00:00,seed_generator,BR0006,Nakuru Mall Branch,525 Clark Grove Apt. 928,Nakuru,Nakuru,20100,True
+2023-10-31 10:00:00,seed_generator,2023-11-25 10:00:00,seed_generator,BR0007,Nairobi CBD Branch,76483 Cameron Trail,Nairobi,Nairobi,00100,True
+2025-03-07 10:00:00,seed_generator,2025-03-11 10:00:00,seed_generator,BR0008,Eldoret CBD Branch,05641 Robin Port,Eldoret,Uasin Gishu,30100,True
+2025-09-03 10:00:00,seed_generator,2025-09-05 10:00:00,seed_generator,BR0009,Eldoret Mall Branch,76724 John Points Suite 969,Eldoret,Uasin Gishu,30100,True
+2024-04-07 10:00:00,seed_generator,2024-04-15 10:00:00,seed_generator,BR0010,Eldoret CBD Branch,3287 Katelyn Wall Apt. 226,Eldoret,Uasin Gishu,30100,True
+2024-11-24 10:00:00,seed_generator,2024-11-26 10:00:00,seed_generator,BR0011,Mombasa Town Branch,6978 Maddox Wall,Mombasa,Mombasa,80100,True
+2024-05-04 10:00:00,seed_generator,2024-05-10 10:00:00,seed_generator,BR0012,Eldoret Town Branch,184 Rodriguez Mews,Eldoret,Uasin Gishu,30100,False

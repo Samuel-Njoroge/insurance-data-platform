@@ -1,0 +1,96 @@
+created_at,created_by,updated_at,updated_by,claim_settlement_id,claim_id,settlement_amount,settlement_date,method,reference,approved_by,status,active
+2024-11-14 10:00:00,seed_generator,2024-11-14 10:00:00,seed_generator,CS0000001,CL0000001,449299.39,2026-01-31,Bank Transfer,SET-000000001,claims.approvals@coverhouse.co.ke,Paid,True
+2025-02-11 10:00:00,seed_generator,2025-02-13 10:00:00,seed_generator,CS0000002,CL0000002,60938.62,2024-10-02,Bank Transfer,SET-000000002,claims.approvals@coverhouse.co.ke,Paid,True
+2025-05-15 10:00:00,seed_generator,2025-06-11 10:00:00,seed_generator,CS0000003,CL0000004,254134.67,2026-01-01,Bank Transfer,SET-000000003,claims.approvals@coverhouse.co.ke,Paid,True
+2024-03-10 10:00:00,seed_generator,2024-03-20 10:00:00,seed_generator,CS0000004,CL0000006,186384.74,2025-12-07,Bank Transfer,SET-000000004,claims.approvals@coverhouse.co.ke,Paid,True
+2023-09-30 10:00:00,seed_generator,2023-10-01 10:00:00,seed_generator,CS0000005,CL0000010,18221.28,2025-10-11,M-Pesa,SET-000000005,claims.approvals@coverhouse.co.ke,Paid,True
+2023-08-27 10:00:00,seed_generator,2023-09-20 10:00:00,seed_generator,CS0000006,CL0000012,485207.76,2025-12-09,Bank Transfer,SET-000000006,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-23 10:00:00,seed_generator,2023-12-06 10:00:00,seed_generator,CS0000007,CL0000014,402391.45,2026-02-07,Card,SET-000000007,claims.approvals@coverhouse.co.ke,Paid,True
+2024-10-10 10:00:00,seed_generator,2024-11-07 10:00:00,seed_generator,CS0000008,CL0000017,302522.39,2025-02-18,M-Pesa,SET-000000008,claims.approvals@coverhouse.co.ke,Paid,True
+2024-01-01 10:00:00,seed_generator,2024-01-09 10:00:00,seed_generator,CS0000009,CL0000018,425313.18,2025-05-16,M-Pesa,SET-000000009,claims.approvals@coverhouse.co.ke,Paid,True
+2024-12-21 10:00:00,seed_generator,2025-01-03 10:00:00,seed_generator,CS0000010,CL0000019,150082.40,2026-03-02,Card,SET-000000010,claims.approvals@coverhouse.co.ke,Paid,True
+2023-09-06 10:00:00,seed_generator,2023-09-23 10:00:00,seed_generator,CS0000011,CL0000020,268019.33,2025-07-22,Bank Transfer,SET-000000011,claims.approvals@coverhouse.co.ke,Paid,True
+2024-01-05 10:00:00,seed_generator,2024-01-05 10:00:00,seed_generator,CS0000012,CL0000022,108053.40,2026-01-26,Card,SET-000000012,claims.approvals@coverhouse.co.ke,Paid,True
+2024-02-29 10:00:00,seed_generator,2024-03-05 10:00:00,seed_generator,CS0000013,CL0000023,28332.05,2026-01-30,Bank Transfer,SET-000000013,claims.approvals@coverhouse.co.ke,Paid,True
+2023-09-28 10:00:00,seed_generator,2023-10-18 10:00:00,seed_generator,CS0000014,CL0000025,109136.29,2026-01-30,M-Pesa,SET-000000014,claims.approvals@coverhouse.co.ke,Paid,True
+2024-11-01 10:00:00,seed_generator,2024-11-07 10:00:00,seed_generator,CS0000015,CL0000026,55856.91,2025-06-20,Bank Transfer,SET-000000015,claims.approvals@coverhouse.co.ke,Paid,True
+2025-01-29 10:00:00,seed_generator,2025-02-16 10:00:00,seed_generator,CS0000016,CL0000032,83325.62,2025-08-03,M-Pesa,SET-000000016,claims.approvals@coverhouse.co.ke,Paid,True
+2025-07-08 10:00:00,seed_generator,2025-07-15 10:00:00,seed_generator,CS0000017,CL0000035,534259.12,2025-11-26,Card,SET-000000017,claims.approvals@coverhouse.co.ke,Paid,True
+2023-10-22 10:00:00,seed_generator,2023-11-17 10:00:00,seed_generator,CS0000018,CL0000037,431732.04,2026-02-10,M-Pesa,SET-000000018,claims.approvals@coverhouse.co.ke,Paid,True
+2023-08-02 10:00:00,seed_generator,2023-08-21 10:00:00,seed_generator,CS0000019,CL0000039,100927.17,2025-04-08,Bank Transfer,SET-000000019,claims.approvals@coverhouse.co.ke,Paid,True
+2024-09-10 10:00:00,seed_generator,2024-09-25 10:00:00,seed_generator,CS0000020,CL0000043,306510.03,2026-01-21,Bank Transfer,SET-000000020,claims.approvals@coverhouse.co.ke,Paid,True
+2025-06-22 10:00:00,seed_generator,2025-07-13 10:00:00,seed_generator,CS0000021,CL0000045,66048.28,2025-05-17,Bank Transfer,SET-000000021,claims.approvals@coverhouse.co.ke,Paid,True
+2023-09-20 10:00:00,seed_generator,2023-09-29 10:00:00,seed_generator,CS0000022,CL0000046,119728.33,2025-07-01,M-Pesa,SET-000000022,claims.approvals@coverhouse.co.ke,Paid,True
+2024-10-18 10:00:00,seed_generator,2024-10-29 10:00:00,seed_generator,CS0000023,CL0000048,94523.88,2025-01-11,Bank Transfer,SET-000000023,claims.approvals@coverhouse.co.ke,Paid,True
+2024-11-25 10:00:00,seed_generator,2024-12-25 10:00:00,seed_generator,CS0000024,CL0000050,346207.19,2026-02-12,M-Pesa,SET-000000024,claims.approvals@coverhouse.co.ke,Paid,True
+2025-11-25 10:00:00,seed_generator,2025-12-25 10:00:00,seed_generator,CS0000025,CL0000053,8719.61,2026-01-02,Card,SET-000000025,claims.approvals@coverhouse.co.ke,Paid,True
+2024-02-23 10:00:00,seed_generator,2024-03-13 10:00:00,seed_generator,CS0000026,CL0000054,509196.03,2025-09-15,M-Pesa,SET-000000026,claims.approvals@coverhouse.co.ke,Paid,True
+2025-09-16 10:00:00,seed_generator,2025-09-30 10:00:00,seed_generator,CS0000027,CL0000057,165092.58,2026-01-04,Bank Transfer,SET-000000027,claims.approvals@coverhouse.co.ke,Paid,True
+2023-12-29 10:00:00,seed_generator,2024-01-25 10:00:00,seed_generator,CS0000028,CL0000058,112525.85,2025-06-10,M-Pesa,SET-000000028,claims.approvals@coverhouse.co.ke,Paid,True
+2024-11-01 10:00:00,seed_generator,2024-11-20 10:00:00,seed_generator,CS0000029,CL0000064,101239.06,2025-02-17,Card,SET-000000029,claims.approvals@coverhouse.co.ke,Paid,True
+2025-03-25 10:00:00,seed_generator,2025-03-29 10:00:00,seed_generator,CS0000030,CL0000066,212491.75,2025-09-14,Bank Transfer,SET-000000030,claims.approvals@coverhouse.co.ke,Paid,True
+2025-06-25 10:00:00,seed_generator,2025-07-25 10:00:00,seed_generator,CS0000031,CL0000067,471349.04,2025-08-09,M-Pesa,SET-000000031,claims.approvals@coverhouse.co.ke,Paid,True
+2025-12-02 10:00:00,seed_generator,2025-12-24 10:00:00,seed_generator,CS0000032,CL0000068,224150.19,2026-03-03,Bank Transfer,SET-000000032,claims.approvals@coverhouse.co.ke,Paid,True
+2023-10-17 10:00:00,seed_generator,2023-11-15 10:00:00,seed_generator,CS0000033,CL0000072,323940.35,2025-12-28,Card,SET-000000033,claims.approvals@coverhouse.co.ke,Paid,True
+2024-07-28 10:00:00,seed_generator,2024-07-31 10:00:00,seed_generator,CS0000034,CL0000073,196153.63,2026-01-07,Card,SET-000000034,claims.approvals@coverhouse.co.ke,Paid,True
+2025-05-22 10:00:00,seed_generator,2025-05-28 10:00:00,seed_generator,CS0000035,CL0000074,521791.76,2025-10-26,Bank Transfer,SET-000000035,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-13 10:00:00,seed_generator,2023-11-28 10:00:00,seed_generator,CS0000036,CL0000076,239722.60,2025-02-27,M-Pesa,SET-000000036,claims.approvals@coverhouse.co.ke,Paid,True
+2024-10-01 10:00:00,seed_generator,2024-10-28 10:00:00,seed_generator,CS0000037,CL0000077,191554.95,2025-03-13,Card,SET-000000037,claims.approvals@coverhouse.co.ke,Paid,True
+2025-05-10 10:00:00,seed_generator,2025-06-05 10:00:00,seed_generator,CS0000038,CL0000078,164394.02,2026-01-01,Card,SET-000000038,claims.approvals@coverhouse.co.ke,Paid,True
+2024-01-23 10:00:00,seed_generator,2024-01-29 10:00:00,seed_generator,CS0000039,CL0000082,99465.84,2025-06-09,M-Pesa,SET-000000039,claims.approvals@coverhouse.co.ke,Paid,True
+2024-10-24 10:00:00,seed_generator,2024-11-18 10:00:00,seed_generator,CS0000040,CL0000084,490166.99,2025-02-21,M-Pesa,SET-000000040,claims.approvals@coverhouse.co.ke,Paid,True
+2025-02-22 10:00:00,seed_generator,2025-03-02 10:00:00,seed_generator,CS0000041,CL0000087,329730.08,2025-11-13,Card,SET-000000041,claims.approvals@coverhouse.co.ke,Paid,True
+2024-09-11 10:00:00,seed_generator,2024-10-10 10:00:00,seed_generator,CS0000042,CL0000088,213745.70,2025-12-08,Bank Transfer,SET-000000042,claims.approvals@coverhouse.co.ke,Paid,True
+2024-04-29 10:00:00,seed_generator,2024-05-20 10:00:00,seed_generator,CS0000043,CL0000089,423023.70,2026-03-02,Bank Transfer,SET-000000043,claims.approvals@coverhouse.co.ke,Paid,True
+2025-09-20 10:00:00,seed_generator,2025-09-20 10:00:00,seed_generator,CS0000044,CL0000091,539321.11,2025-03-16,M-Pesa,SET-000000044,claims.approvals@coverhouse.co.ke,Paid,True
+2025-01-19 10:00:00,seed_generator,2025-02-10 10:00:00,seed_generator,CS0000045,CL0000092,308387.56,2025-05-27,Card,SET-000000045,claims.approvals@coverhouse.co.ke,Paid,True
+2025-05-13 10:00:00,seed_generator,2025-06-04 10:00:00,seed_generator,CS0000046,CL0000093,300518.06,2026-03-12,Card,SET-000000046,claims.approvals@coverhouse.co.ke,Paid,True
+2024-10-09 10:00:00,seed_generator,2024-11-01 10:00:00,seed_generator,CS0000047,CL0000094,126189.60,2026-03-04,Bank Transfer,SET-000000047,claims.approvals@coverhouse.co.ke,Paid,True
+2025-10-03 10:00:00,seed_generator,2025-10-06 10:00:00,seed_generator,CS0000048,CL0000095,324393.84,2026-03-31,M-Pesa,SET-000000048,claims.approvals@coverhouse.co.ke,Paid,True
+2025-10-24 10:00:00,seed_generator,2025-11-03 10:00:00,seed_generator,CS0000049,CL0000098,533940.99,2025-10-22,Bank Transfer,SET-000000049,claims.approvals@coverhouse.co.ke,Paid,True
+2024-12-19 10:00:00,seed_generator,2025-01-07 10:00:00,seed_generator,CS0000050,CL0000099,385629.69,2025-10-27,Card,SET-000000050,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-11 10:00:00,seed_generator,2023-12-06 10:00:00,seed_generator,CS0000051,CL0000100,513428.87,2025-10-14,M-Pesa,SET-000000051,claims.approvals@coverhouse.co.ke,Paid,True
+2025-04-01 10:00:00,seed_generator,2025-04-17 10:00:00,seed_generator,CS0000052,CL0000101,434955.67,2024-12-28,Bank Transfer,SET-000000052,claims.approvals@coverhouse.co.ke,Paid,True
+2025-02-10 10:00:00,seed_generator,2025-02-22 10:00:00,seed_generator,CS0000053,CL0000102,510295.99,2025-09-02,M-Pesa,SET-000000053,claims.approvals@coverhouse.co.ke,Paid,True
+2024-05-23 10:00:00,seed_generator,2024-05-24 10:00:00,seed_generator,CS0000054,CL0000103,524309.26,2026-01-26,M-Pesa,SET-000000054,claims.approvals@coverhouse.co.ke,Paid,True
+2025-03-25 10:00:00,seed_generator,2025-03-30 10:00:00,seed_generator,CS0000055,CL0000106,300865.76,2025-03-05,Bank Transfer,SET-000000055,claims.approvals@coverhouse.co.ke,Paid,True
+2025-01-03 10:00:00,seed_generator,2025-01-31 10:00:00,seed_generator,CS0000056,CL0000107,499942.12,2025-11-12,M-Pesa,SET-000000056,claims.approvals@coverhouse.co.ke,Paid,True
+2025-09-16 10:00:00,seed_generator,2025-09-26 10:00:00,seed_generator,CS0000057,CL0000108,438600.34,2026-03-02,Bank Transfer,SET-000000057,claims.approvals@coverhouse.co.ke,Paid,True
+2025-07-24 10:00:00,seed_generator,2025-08-01 10:00:00,seed_generator,CS0000058,CL0000111,483871.76,2026-01-29,Bank Transfer,SET-000000058,claims.approvals@coverhouse.co.ke,Paid,True
+2025-11-01 10:00:00,seed_generator,2025-11-05 10:00:00,seed_generator,CS0000059,CL0000112,125227.72,2025-07-07,Bank Transfer,SET-000000059,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-12 10:00:00,seed_generator,2023-11-23 10:00:00,seed_generator,CS0000060,CL0000113,145264.62,2025-06-07,Bank Transfer,SET-000000060,claims.approvals@coverhouse.co.ke,Paid,True
+2025-03-22 10:00:00,seed_generator,2025-04-10 10:00:00,seed_generator,CS0000061,CL0000114,24133.62,2025-10-25,Card,SET-000000061,claims.approvals@coverhouse.co.ke,Paid,True
+2025-01-30 10:00:00,seed_generator,2025-02-12 10:00:00,seed_generator,CS0000062,CL0000118,76590.77,2025-10-22,Bank Transfer,SET-000000062,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-23 10:00:00,seed_generator,2023-12-08 10:00:00,seed_generator,CS0000063,CL0000119,89241.32,2024-05-11,Card,SET-000000063,claims.approvals@coverhouse.co.ke,Paid,True
+2024-02-12 10:00:00,seed_generator,2024-03-03 10:00:00,seed_generator,CS0000064,CL0000120,155307.70,2024-06-20,M-Pesa,SET-000000064,claims.approvals@coverhouse.co.ke,Paid,True
+2025-06-06 10:00:00,seed_generator,2025-06-10 10:00:00,seed_generator,CS0000065,CL0000123,8613.41,2025-10-27,M-Pesa,SET-000000065,claims.approvals@coverhouse.co.ke,Paid,True
+2025-06-12 10:00:00,seed_generator,2025-06-13 10:00:00,seed_generator,CS0000066,CL0000124,248230.22,2025-10-31,Bank Transfer,SET-000000066,claims.approvals@coverhouse.co.ke,Paid,True
+2025-07-02 10:00:00,seed_generator,2025-07-24 10:00:00,seed_generator,CS0000067,CL0000125,314662.61,2025-08-22,Bank Transfer,SET-000000067,claims.approvals@coverhouse.co.ke,Paid,True
+2025-08-20 10:00:00,seed_generator,2025-09-17 10:00:00,seed_generator,CS0000068,CL0000126,95914.51,2025-07-31,M-Pesa,SET-000000068,claims.approvals@coverhouse.co.ke,Paid,True
+2024-09-20 10:00:00,seed_generator,2024-10-01 10:00:00,seed_generator,CS0000069,CL0000129,231000.14,2025-10-18,Bank Transfer,SET-000000069,claims.approvals@coverhouse.co.ke,Paid,True
+2024-09-04 10:00:00,seed_generator,2024-09-19 10:00:00,seed_generator,CS0000070,CL0000131,327326.23,2025-08-25,Card,SET-000000070,claims.approvals@coverhouse.co.ke,Paid,True
+2025-07-18 10:00:00,seed_generator,2025-07-21 10:00:00,seed_generator,CS0000071,CL0000132,108933.36,2026-01-20,M-Pesa,SET-000000071,claims.approvals@coverhouse.co.ke,Paid,True
+2025-05-22 10:00:00,seed_generator,2025-06-18 10:00:00,seed_generator,CS0000072,CL0000134,265610.48,2025-12-10,M-Pesa,SET-000000072,claims.approvals@coverhouse.co.ke,Paid,True
+2023-08-15 10:00:00,seed_generator,2023-08-20 10:00:00,seed_generator,CS0000073,CL0000138,27186.52,2025-10-28,Bank Transfer,SET-000000073,claims.approvals@coverhouse.co.ke,Paid,True
+2024-05-19 10:00:00,seed_generator,2024-06-16 10:00:00,seed_generator,CS0000074,CL0000142,277354.14,2025-11-11,M-Pesa,SET-000000074,claims.approvals@coverhouse.co.ke,Paid,True
+2024-04-28 10:00:00,seed_generator,2024-04-28 10:00:00,seed_generator,CS0000075,CL0000144,359529.35,2025-11-10,Card,SET-000000075,claims.approvals@coverhouse.co.ke,Paid,True
+2025-06-15 10:00:00,seed_generator,2025-06-28 10:00:00,seed_generator,CS0000076,CL0000146,124913.74,2026-01-08,M-Pesa,SET-000000076,claims.approvals@coverhouse.co.ke,Paid,True
+2023-10-22 10:00:00,seed_generator,2023-11-06 10:00:00,seed_generator,CS0000077,CL0000148,301073.99,2025-08-04,Bank Transfer,SET-000000077,claims.approvals@coverhouse.co.ke,Paid,True
+2025-11-20 10:00:00,seed_generator,2025-11-29 10:00:00,seed_generator,CS0000078,CL0000152,360928.10,2025-06-30,Bank Transfer,SET-000000078,claims.approvals@coverhouse.co.ke,Paid,True
+2024-11-29 10:00:00,seed_generator,2024-12-17 10:00:00,seed_generator,CS0000079,CL0000153,413944.14,2025-08-06,Bank Transfer,SET-000000079,claims.approvals@coverhouse.co.ke,Paid,True
+2025-07-12 10:00:00,seed_generator,2025-07-12 10:00:00,seed_generator,CS0000080,CL0000155,449616.32,2025-06-26,Bank Transfer,SET-000000080,claims.approvals@coverhouse.co.ke,Paid,True
+2023-08-19 10:00:00,seed_generator,2023-09-10 10:00:00,seed_generator,CS0000081,CL0000156,202583.28,2025-11-29,Bank Transfer,SET-000000081,claims.approvals@coverhouse.co.ke,Paid,True
+2024-03-13 10:00:00,seed_generator,2024-04-12 10:00:00,seed_generator,CS0000082,CL0000158,84992.66,2026-02-19,Card,SET-000000082,claims.approvals@coverhouse.co.ke,Paid,True
+2024-02-12 10:00:00,seed_generator,2024-02-12 10:00:00,seed_generator,CS0000083,CL0000159,362896.88,2026-02-14,M-Pesa,SET-000000083,claims.approvals@coverhouse.co.ke,Paid,True
+2024-02-14 10:00:00,seed_generator,2024-03-04 10:00:00,seed_generator,CS0000084,CL0000160,253798.60,2026-03-07,Bank Transfer,SET-000000084,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-28 10:00:00,seed_generator,2023-12-21 10:00:00,seed_generator,CS0000085,CL0000161,381135.81,2026-03-27,M-Pesa,SET-000000085,claims.approvals@coverhouse.co.ke,Paid,True
+2025-05-14 10:00:00,seed_generator,2025-06-10 10:00:00,seed_generator,CS0000086,CL0000163,521228.03,2025-11-24,Card,SET-000000086,claims.approvals@coverhouse.co.ke,Paid,True
+2025-03-02 10:00:00,seed_generator,2025-03-12 10:00:00,seed_generator,CS0000087,CL0000165,429158.96,2025-06-20,Card,SET-000000087,claims.approvals@coverhouse.co.ke,Paid,True
+2025-10-05 10:00:00,seed_generator,2025-10-22 10:00:00,seed_generator,CS0000088,CL0000172,364047.91,2026-03-13,Bank Transfer,SET-000000088,claims.approvals@coverhouse.co.ke,Paid,True
+2025-09-13 10:00:00,seed_generator,2025-09-25 10:00:00,seed_generator,CS0000089,CL0000173,578980.07,2025-06-03,M-Pesa,SET-000000089,claims.approvals@coverhouse.co.ke,Paid,True
+2025-04-15 10:00:00,seed_generator,2025-05-15 10:00:00,seed_generator,CS0000090,CL0000174,161356.08,2026-01-24,M-Pesa,SET-000000090,claims.approvals@coverhouse.co.ke,Paid,True
+2025-11-25 10:00:00,seed_generator,2025-12-22 10:00:00,seed_generator,CS0000091,CL0000175,756790.74,2025-10-01,M-Pesa,SET-000000091,claims.approvals@coverhouse.co.ke,Paid,True
+2024-11-14 10:00:00,seed_generator,2024-12-08 10:00:00,seed_generator,CS0000092,CL0000176,196409.62,2025-01-08,Bank Transfer,SET-000000092,claims.approvals@coverhouse.co.ke,Paid,True
+2024-02-23 10:00:00,seed_generator,2024-03-18 10:00:00,seed_generator,CS0000093,CL0000177,510178.40,2025-09-22,M-Pesa,SET-000000093,claims.approvals@coverhouse.co.ke,Paid,True
+2025-08-15 10:00:00,seed_generator,2025-08-24 10:00:00,seed_generator,CS0000094,CL0000178,276616.71,2024-11-06,Bank Transfer,SET-000000094,claims.approvals@coverhouse.co.ke,Paid,True
+2023-11-24 10:00:00,seed_generator,2023-12-19 10:00:00,seed_generator,CS0000095,CL0000179,615865.39,2024-07-21,Card,SET-000000095,claims.approvals@coverhouse.co.ke,Paid,True
