@@ -1,2 +1,4 @@
 venv
 dbt/logs
+logs
+.env
