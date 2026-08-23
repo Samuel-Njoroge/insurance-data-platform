@@ -21,4 +21,4 @@ SELECT
     cause_of_loss,
     status,
     active
-FROM claims
+FROM raw.claims

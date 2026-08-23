@@ -16,4 +16,4 @@ SELECT
     min_amount,
     max_amount,
     active
-FROM products
+FROM raw.products

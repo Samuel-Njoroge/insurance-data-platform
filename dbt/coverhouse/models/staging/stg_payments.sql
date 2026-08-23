@@ -17,4 +17,4 @@ SELECT
     method,
     reference,
     active
-FROM payments
+FROM raw.payments

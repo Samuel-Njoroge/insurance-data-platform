@@ -16,4 +16,4 @@ SELECT
     email,
     phone_number,
     active
-FROM beneficiaries
+FROM raw.beneficiaries

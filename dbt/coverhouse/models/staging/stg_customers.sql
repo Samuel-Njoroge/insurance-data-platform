@@ -22,4 +22,4 @@ SELECT
     state,
     zip_code,
     active 
-FROM customers
+FROM raw.customers

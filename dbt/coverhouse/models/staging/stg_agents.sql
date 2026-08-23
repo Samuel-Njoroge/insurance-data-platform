@@ -21,4 +21,4 @@ SELECT
     manager_id,
     department_id,
     active
-FROM agents
+FROM raw.agents

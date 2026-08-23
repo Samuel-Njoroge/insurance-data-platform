@@ -16,4 +16,4 @@ SELECT
     state,
     zip_code,
     active
-FROM branches
+FROM raw.branches

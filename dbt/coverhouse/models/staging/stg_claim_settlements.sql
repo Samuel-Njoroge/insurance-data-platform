@@ -18,4 +18,4 @@ SELECT
     approved_by,
     status,
     active
-FROM claim_settlements
+FROM raw.claim_settlements

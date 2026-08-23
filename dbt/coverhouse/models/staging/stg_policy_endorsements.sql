@@ -18,4 +18,4 @@ SELECT
     premium_adjustment,
     approved_by,
     active
-FROM policy_endorsements
+FROM raw.policy_endorsements

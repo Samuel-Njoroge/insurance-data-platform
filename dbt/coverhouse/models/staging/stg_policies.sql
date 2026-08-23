@@ -22,4 +22,4 @@ SELECT
     status,
     sum_assured,
     active
-FROM policies
+FROM raw.policies
