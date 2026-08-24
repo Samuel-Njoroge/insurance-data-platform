@@ -59,9 +59,12 @@ This platform centralizes, transforms, validates, and exposes trusted analytics 
 
 | Layer | Technology | Purpose |
 |--------|------------|---------|
+| Ingestion | Airbyte | Data ingestion |
 | Orchestration | Dagster | Pipeline scheduling and orchestration |
 | Transformation | dbt | SQL-based data transformation |
 | Data Quality | Great Expectations | Data validation and testing |
+| Monitoring   |  Grafana | Performance Visualization |
+| Monitoring  | Prometheus | Metrics Collection |
 | Visualization | Apache Superset | Dashboards and business intelligence |
 
 
