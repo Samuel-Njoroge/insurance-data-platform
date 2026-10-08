@@ -68,48 +68,7 @@ This platform centralizes, transforms, validates, and exposes trusted analytics 
 | Visualization | Apache Superset | Dashboards and business intelligence |
 
 
-## Project Structure
 
-```
-insurance-data-platform/
-│
-├── dagster/
-│   ├── assets/
-│   ├── jobs/
-│   ├── schedules/
-│   └── sensors/
-│
-├── dbt/
-│   ├── models/
-│   │   ├── staging/
-│   │   ├── intermediate/
-│   │   ├── marts/
-│   │   └── snapshots/
-│   │
-│   ├── tests/
-│   ├── seeds/
-│   └── macros/
-│
-├── great-expectations/
-│   ├── expectations/
-│   ├── checkpoints/
-│   └── validations/
-│
-├── superset/
-│   ├── dashboards/
-│   ├── datasets/
-│   └── charts/
-│
-├── docs/
-│
-├── docker/
-│
-├── scripts/
-│
-├── requirements.txt
-│
-└── README.md
-```
 
 ## Data Pipeline
 
