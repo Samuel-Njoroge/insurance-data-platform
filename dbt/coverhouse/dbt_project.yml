@@ -1,5 +1,6 @@
 name: 'coverhouse'
 version: '1.0.0'
+require-dbt-version: [">=2.0.9", "<3.0.0"]
 
 profile: 'coverhouse'
 
