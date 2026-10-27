@@ -1,4 +1,21 @@
-Welcome to your new dbt project!
+# Coverhouse
+
+This project uses dbt v2.0.9, distributed as the `dbt` Python package.
+Install the repository's `requirements.txt` in a clean virtual environment.
+Do not install `dbt-core` v1 or `dbt-duckdb` alongside it: v2 includes
+the DuckDB adapter, and overlapping Python packages can break the CLI.
+
+From the repository root, verify the installation with:
+
+```bash
+dbt --version
+cd dbt/coverhouse
+dbt debug
+```
+
+Configure a `coverhouse` profile in your dbt `profiles.yml` before running
+the project. The `version` field in `dbt_project.yml` is the Coverhouse
+project version; `require-dbt-version` constrains the dbt engine version.
 
 ### Using the starter project
 
